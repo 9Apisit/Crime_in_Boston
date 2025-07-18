@@ -11,11 +11,6 @@ The analysis is done in Python using Jupyter Notebook or Google Colab.
 - Analyze crime patterns and behavior in Boston.
 - Explore potential factors that influence crime occurrence.
 
----
-
-## 📁 Project Structure
-
----
 
 ## 🧰 Tools & Libraries
 - Python 3
@@ -30,11 +25,4 @@ The analysis is done in Python using Jupyter Notebook or Google Colab.
 ## 📈 Datasets
 - [Boston Housing Dataset](https://www.kaggle.com/datasets/arunjangir245/boston-housing-dataset)  
 - [Crimes in Boston](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston)
-
----
-
-## 🚀 How to Run
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
 
