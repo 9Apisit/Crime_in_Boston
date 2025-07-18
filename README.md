@@ -27,11 +27,11 @@ The analysis is done in Python using Jupyter Notebook or Google Colab.
 
 This repository contains two versions of the analysis notebook:
 
-### 📄 [ENG_Project_Crime_in_Boston.ipynb](notebooks/ENG_Project_Crime_in_Boston.ipynb)
+### 📄 [ENG_Project_Crime_in_Boston.ipynb](ENG_Project_Crime_in_Boston.ipynb)
 - 📌 Language: **English**
 - 📌 Content: Explains the analysis process, exploratory data analysis (EDA), visualizations, and insights about crime in Boston.
 
-### 📄 [TH_Project_Crime_in_Boston.ipynb](notebooks/TH_Project_Crime_in_Boston.ipynb)
+### 📄 [TH_Project_Crime_in_Boston.ipynb](TH_Project_Crime_in_Boston.ipynb)
 - 📌 Language: **Thai (ภาษาไทย)**
 - 📌 Content: Same analysis as the English version, but described and documented entirely in Thai for native readers.
 
