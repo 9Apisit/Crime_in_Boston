@@ -35,11 +35,6 @@ This repository contains two versions of the analysis notebook:
 - 📌 Language: **Thai (ภาษาไทย)**
 - 📌 Content: Same analysis as the English version, but described and documented entirely in Thai for native readers.
 
-You can open these notebooks using:
-- Jupyter Notebook:  
-  ```bash
-  jupyter notebook notebooks/ENG_Project_Crime_in_Boston.ipynb
-
 
 ## 📈 Datasets
 - [Boston Housing Dataset](https://www.kaggle.com/datasets/arunjangir245/boston-housing-dataset)  
