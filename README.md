@@ -1,27 +1,34 @@
 # Crime_in_Boston
-# 📊 Sample Data Analysis: Crime in Boston
+📊 Crime in Boston — Sample Data Analysis
+This project is a beginner-to-intermediate-level data analysis example on the topic of Crime in Boston.
+It explores the patterns of crime incidents and examines factors that may influence crime rates in the city of Boston.
+The analysis is performed in Python using Jupyter Notebook or Google Colab.
 
-This project is a beginner-level data analysis example on the topic of **Crime in Boston**.  
-It explores the behavior of crimes and preliminary factors that may influence crime rates in the city of Boston.  
-The analysis is done in Python using Jupyter Notebook or Google Colab.
+🎯 Objectives
+Analyze crime patterns and behaviors in Boston.
 
----
+Identify days, times, and locations with high crime rates.
 
-## 🎯 Objectives
-- Analyze crime patterns and behavior in Boston.
-- Explore potential factors that influence crime occurrence.
+Explore potential factors that influence crime occurrences.
 
+Test hypotheses using statistical methods (e.g., t-test, chi-squared test).
 
-## 🧰 Tools & Libraries
-- Python 3
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook / Google Colab
+🧰 Tools & Libraries
+Python 3
 
+Pandas — data manipulation
 
----
+NumPy — numerical operations
+
+Matplotlib — data visualization
+
+Seaborn — advanced visualization
+
+SciPy — statistical tests (t-test, chi-squared)
+
+Jupyter Notebook / Google Colab — interactive development
+
+(optional): Plotly or Folium — for interactive maps
 
 ## 📒 Notebooks
 
@@ -30,10 +37,6 @@ This repository contains two versions of the analysis notebook:
 ### 📄 [ENG_Project_Crime_in_Boston.ipynb](ENG_Project_Crime_in_Boston.ipynb)
 - 📌 Language: **English**
 - 📌 Content: Explains the analysis process, exploratory data analysis (EDA), visualizations, and insights about crime in Boston.
-
-### 📄 [TH_Project_Crime_in_Boston.ipynb](TH_Project_Crime_in_Boston.ipynb)
-- 📌 Language: **Thai (ภาษาไทย)**
-- 📌 Content: Same analysis as the English version, but described and documented entirely in Thai for native readers.
 
 
 ## 📈 Datasets
