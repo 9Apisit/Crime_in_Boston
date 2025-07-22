@@ -4,7 +4,7 @@ This project is a beginner-to-intermediate-level data analysis example on the to
 It explores the patterns of crime incidents and examines factors that may influence crime rates in the city of Boston.
 The analysis is performed in Python using Jupyter Notebook or Google Colab.
 
-🎯 Objectives
+# 🎯 Objectives
 Analyze crime patterns and behaviors in Boston.
 
 Identify days, times, and locations with high crime rates.
@@ -13,7 +13,7 @@ Explore potential factors that influence crime occurrences.
 
 Test hypotheses using statistical methods (e.g., t-test, chi-squared test).
 
-🧰 Tools & Libraries
+# 🧰 Tools & Libraries
 Python 3
 
 Pandas — data manipulation
