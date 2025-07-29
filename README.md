@@ -1,4 +1,4 @@
-# Crime_in_Boston
+# Crime in Boston
 📊 Crime in Boston — Sample Data Analysis
 This project is a beginner-to-intermediate-level data analysis example on the topic of Crime in Boston.
 It explores the patterns of crime incidents and examines factors that may influence crime rates in the city of Boston.
